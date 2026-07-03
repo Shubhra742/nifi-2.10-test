@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1783062000791,
+    "description" : "Testing NIFI-15148 branch creation",
+    "identifier" : "branch-test-flow",
+    "lastModifiedTimestamp" : 1783062000791,
+    "name" : "branch-test-flow",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
